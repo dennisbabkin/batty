@@ -5,11 +5,13 @@ This is a repo with the sample code for my blog post:
 ## [What Not to Do - Coding Apps in Assembly & Timely Backups](https://dennisbabkin.com/blog/?i=AAA11800)
 ### Batty, a game coded almost entirely in Assembly, plus importance of timely backups.
 
+*Please note that this source code does not compile due to reasons I explained in the [blog post](https://dennisbabkin.com/blog/?i=AAA11800).*
+
 ![Batty Game](https://github.com/dennisbabkin/batty/blob/main/Batty/Screenshots/batty_screenshot_1.png)
 
 ## Release
 
-You can download the Batty game binaries [here](https://github.com/dennisbabkin/batty/blob/main/Batty/Debug/Batty.zip).
+You can download the Batty game binaries [here](https://dennisbabkin.com/php/downloads/Batty_game.zip).
 
 ------------------
 
