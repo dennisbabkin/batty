@@ -9,7 +9,7 @@ This is a repo with the sample code for my blog post:
 
 ## Release
 
-You can download the Batty game binaries here.
+You can download the Batty game binaries [here](https://github.com/dennisbabkin/batty/blob/main/Batty/Debug/Batty.zip).
 
 ------------------
 
