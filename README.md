@@ -7,7 +7,7 @@ This is a repo with the sample code for my blog post:
 
 ![Batty Game](https://github.com/dennisbabkin/batty/blob/main/Batty/Screenshots/batty_screenshot_1.png)
 
-It covers the following tips:
+The blog post covers the following topics:
 
 - [Batty Game](https://dennisbabkin.com/blog/?i=AAA11800#batty)
 
