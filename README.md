@@ -5,6 +5,8 @@ This is a repo with the sample code for my blog post:
 ## [What Not to Do - Coding Apps in Assembly & Timely Backups](https://dennisbabkin.com/blog/?i=AAA11800)
 ### Batty, a game coded almost entirely in Assembly, plus importance of timely backups.
 
+![Batty Game](https://github.com/dennisbabkin/batty/blob/main/Batty/Screenshots/batty_screenshot_1.png)
+
 It covers the following tips:
 
 - [Batty Game](https://dennisbabkin.com/blog/?i=AAA11800#batty)
